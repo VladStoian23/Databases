@@ -1,0 +1,2 @@
+Instructions
+Think about a simple application that requires a database. Represent the application data in a relational structure and implement the structure in a SQL Server database. The database must contain at least 6 tables and also to implement at least one 1-n relationship and at least one m-n relationship.
